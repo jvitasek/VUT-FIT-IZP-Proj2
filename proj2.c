@@ -1,10 +1,12 @@
-/*
- * File:    proj2.c
- * Date:    21.11.2013 20:53
- * Author:  1BIB | Jakub Vitasek, xvitas02@stud.fit.vutbr.cz
- * Project: 1BIT Project 2: Iteration Calculations
- * Desc.:   The program calculates the interior angles of a common triangle. It also exclusively
- *          calculates a square root or an inverse sine of a number. More in help "./proj2 --help"
+/**
+ * @file    proj2.c
+ * @author  Jakub Vitasek <me@jvitasek.cz>
+ * @date    21.11.2013
+ * @brief   1BIT Project 2: Iteration Calculations
+ * 
+ * The program calculates the interior angles of a common triangle. It also exclusively
+ * calculates a square root or an inverse sine of a number. The program achieves that
+ * without the need to use the built-in library <math.h>.
  */
  
 #include <stdio.h>
