@@ -241,7 +241,7 @@ double my_asin(double x)
     return sum;
 }
  
-/* Returns the arcsin approximation of a number for the extreme values. */
+/* Returns the arcsin approximation of a number for the extreme values */
 double my_asin_extreme(double x)
 {
     double sum = x;
